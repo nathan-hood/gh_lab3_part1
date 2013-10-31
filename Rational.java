@@ -10,7 +10,7 @@ public class Rational {
     private int _numerator;
     private int _denominator;
 
-    // default tolerance for square root computation
+    // default tolerance for square root computation - test change
     private static Rational TOLERANCE = new Rational( 1, 1000 );
 
 
