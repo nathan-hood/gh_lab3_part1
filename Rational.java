@@ -5,6 +5,8 @@
 // Added square root functionality and associated helper methods 3/23/2011 by
 // Adnan Aziz
 
+
+
 public class Rational {
 
     private int _numerator;
