@@ -143,7 +143,7 @@ public class Rational {
         } else {
             result._numerator = -this.numerator();
             result._denominator = this.denominator();
-        }
+        } //
         return result;
     }
 
