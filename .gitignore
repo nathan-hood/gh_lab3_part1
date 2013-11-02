@@ -1,3 +1,6 @@
 /IllegalArgumentToSquareRootException.class
 /Rational.class
 /RationalTest.class
+/RationalSpoof.class
+/emma.jar
+/junit-4.11.jar
